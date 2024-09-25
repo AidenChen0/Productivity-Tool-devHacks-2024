@@ -10,6 +10,8 @@ To run, use:
 
     java Launcher
 
+![2 windows in a window based application, with a larger window behind to track assignments and a smaller pomodoro timer window in front.](ProductivityTool.png)
+
 ## Features
 - Adding and deleting assignments
 - Assignments are saved to a file (they will still exist if you close and reopen the program)
